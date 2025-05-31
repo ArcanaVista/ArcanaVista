@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArcanaVista/Telegram-Lab/main/AV.png" alt="AV Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ArcanaVista/ArcanaVista/main/AV.png" alt="AV Banner" width="100%" />
 </p>
-
 ---
 
 # 🔮**Arcana Vista** — авторський Telegram-проєкт про **структурний і візуальний підхід до контенту**, що розвивається як творча команда.
